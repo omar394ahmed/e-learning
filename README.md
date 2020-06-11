@@ -7,4 +7,4 @@ Springboot-Spring-Jersy Model for Rest-endPoints with Swagger & MySQL DataBase w
 
 you can Import this app to your IDE ex:- intellij OR Eclipse that have maven and makesure JAVA version 8 or higher is Installed on your OS . 
 # Note :-
-this is for demonstrationg My Skills with my lastest projects propose only not for using in real-life projects .  
+this is for demonstrationg My Skills with my lastest projects , not for using in real-life projects as this is part of On market applications .  
